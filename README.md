@@ -1,1 +1,2 @@
 # Court-case-Management
+E-Portal for Case Management is a comprehensive web-based solution designed to streamline and digitize the pre-trial and case management process for civil cases. The platform facilitates seamless interaction between clients, advocates, and registrars, enabling efficient case tracking, document management, and scheduling. By providing a centralized portal for all stakeholders, the system reduces paperwork, improves transparency, and accelerates legal workflows.
